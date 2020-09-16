@@ -2,12 +2,12 @@
 
 Developer && Student
 
-
+Currently learning Vue.js
 
 ### Reach out
 🌐 [Portfolio](https://oneminch.dev) 
 
-📷 [Dev](https://dev.to/oneminch)
+👨🏾‍💻 [Dev](https://dev.to/oneminch)
 
 💼 [LinkedIn](https://linkedin.com/in/dawwito)
 
