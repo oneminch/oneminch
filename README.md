@@ -1,12 +1,16 @@
 ### Hi there, I'm Dawit 👋
 
-Developer && Student <br>
-Currently learning Vue.js <br>
+Developer && Student 
+
+Currently learning Vue.js 
 
 ### Reach out
-🌐 [Portfolio](https://oneminch.dev) <br>
-👨🏾‍💻 [Dev](https://dev.to/oneminch) <br>
-💼 [LinkedIn](https://linkedin.com/in/dawwito) <br>
+🌐 [Portfolio](https://oneminch.dev) 
+
+👨🏾‍💻 [Dev](https://dev.to/oneminch) 
+
+💼 [LinkedIn](https://linkedin.com/in/dawwito) 
+
 📷 [Unsplash](https://unsplash.com/oneminch) <br>
 
 <!-- Here are some ideas to get you started:
