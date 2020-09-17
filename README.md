@@ -8,7 +8,7 @@ Developer 👨🏾‍💻 && Student 👨🏾‍🎓
 
 ### Reach out
 
- [Dev.to](https://dev.to/oneminch) 
+💻 [Dev.to](https://dev.to/oneminch) 
 
 🌐 [Portfolio](https://oneminch.dev) 
 
