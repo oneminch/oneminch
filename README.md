@@ -3,8 +3,8 @@
 Developer 👨🏾‍💻 && Student 👨🏾‍🎓
 
 - 🎓 Computer Science senior at Tennessee Tech.
-- 🌱 Learning Vue.js
-- 🔭 Working on [EncryptedList](https://github.com/oneminch/encryptedlist) and a bunch of other tiny stuff.
+- 🌱 Learning Vue.js && Loving It
+- 🔭 Working on [EncryptedList 2.0](https://github.com/oneminch/encrypted-list) and a bunch of other tiny stuff.
 
 ### Reach out
 
