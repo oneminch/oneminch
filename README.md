@@ -1,10 +1,12 @@
 ### Hi there, I'm Dawit 👋
 
-Developer 👨🏾‍💻 && Student 👨🏾‍🎓
+Web Developer | Software Engineer 👨🏾‍💻
 
-- 🎓 Computer Science senior at Tennessee Tech.
-- 🌱 Learning Vue.js && Loving It
+- 🎓 Computer Science grad from Tennessee Tech.
+- 🌱 Self-teaching Python && Loving It
 - 🔭 Working on a bunch of stuff.
+
+> “Be willing to be a beginner every single morning.” <br />- Meister Eckhart
 
 ### Reach out
 
