@@ -3,8 +3,8 @@
 Web Developer | Software Engineer 👨🏾‍💻
 
 - 🎓 Computer Science grad from Tennessee Tech.
-- 🌱 Self-teaching Python && Loving It
-- 🔭 Working on a bunch of stuff.
+- 🌱 Self-teaching Web Dev && Python 🐍
+- 🔭 Working on a bunch of [stuff](https://github.com/oneminch?tab=repositories).
 
 > “Be willing to be a beginner every single morning.” <br />- Meister Eckhart
 
