@@ -14,7 +14,7 @@ Web Developer | Software Engineer 👨🏾‍💻
 
 🔗 [Portfolio](https://oneminch.dev) 
 
-💼 [LinkedIn](https://linkedin.com/in/dawwito)
+💼 [LinkedIn](https://linkedin.com/in/oneminch)
 
 [![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneminch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
