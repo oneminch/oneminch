@@ -2,17 +2,18 @@
 
 Web Developer | Software Engineer 👨🏾‍💻
 
-- 🎓 Computer Science grad from Tennessee Tech.
-- 🌱 Self-teaching Web Dev && Python 🐍
-- 🔭 Working on a bunch of [stuff](https://github.com/oneminch?tab=repositories).
+- 🎓 Computer Science grad from Tennessee Tech University.
+- 🌱 Learning web development and different aspects of software engineering.
+- 🔭 Currently working on [EncryptedList](https://encryptedlist.xyz).
+- 📖 Reading Ultralearning by Scott Young.
 
 > “Be willing to be a beginner every single morning.” <br />- Meister Eckhart
 
 ### Reach out
 
-💻 [DEV](https://dev.to/oneminch) 
+🔗 [Portfolio](https://oneminch.dev)
 
-🔗 [Portfolio](https://oneminch.dev) 
+💻 [DEV](https://dev.to/oneminch) 
 
 💼 [LinkedIn](https://linkedin.com/in/oneminch)
 
