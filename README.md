@@ -1,6 +1,6 @@
 ### Hi there, I'm Dawit 👋
 
-Web Developer | Software Engineer 👨🏾‍💻
+Software Engineer 👨🏾‍💻
 
 - 🎓 Computer Science grad from Tennessee Tech University.
 - 🌱 Learning web development and different aspects of software engineering.
