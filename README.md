@@ -4,9 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oneminch&style=flat&color=edae49)
 
-## About Me
-
-Hello, my name is Dawit. I am a software engineer and frontend web developer. I'm a recent Computer Science graduate from Tennessee Tech University. I'm passionate about learning and building for the open web. I am currently seeking for opportunities to apply my broad technical knowledge of web and software development, adaptability, and creative programming skills to make an impact.
+> Hello, my name is Dawit. I am a software engineer and frontend web developer. I'm a recent Computer Science graduate from Tennessee Tech University. I'm passionate about learning and building for the open web. I am currently seeking for opportunities to apply my broad technical knowledge of web and software development, adaptability, and creative programming skills to make an impact.
 
 Feel free to explore and connect...
 
@@ -22,19 +20,19 @@ Feel free to explore and connect...
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/oneminch/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/oneminch/)
 
-## Currently
+## Currently...
 
-💼 Open to work.
+💼 Open to opportunities.
 
 🧠 Revisiting my data structures and algorithms knowledge using Python.
 
 👨🏽‍💻 Working on version 3 of [my portfolio](https://github.com/oneminch/oneminch.github.io/).
 
-📖 Reading [Ultralearning by Scott Young](https://app.thestorygraph.com/books/b38fd3d5-b39f-4bd0-b730-9c919a5ef5f1).
+📚 Reading [Ultralearning by Scott Young](https://app.thestorygraph.com/books/b38fd3d5-b39f-4bd0-b730-9c919a5ef5f1).
 
 ## Experience
 
-![EncryptedList](https://github-readme-stats.vercel.app/api/pin/?username=oneminch&repo=encrypted-list&show_owner=true&theme=transparent&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=343a40)
+![EncryptedList](https://github-readme-stats.vercel.app/api/pin/?username=oneminch&repo=encrypted-list&show_owner=true&theme=transparent&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=22272E)
 
 I regularly work on improving [EncryptedList](https://encryptedlist.xyz), and contribute to open-source software. One of my favorite contributions was enhancing my frequently used open-source websites like [Scoop](https://scoop.sh/) and [Simple Icons](https://simpleicons.org/) by adding OpenSearch functionality to make them automatically detectable and addable as search engines in the browser.
 
@@ -63,7 +61,8 @@ I have previously worked as:
 
 ## Stats
 
-![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneminch&show_icons=true&theme=transparent&hide=contribs&count_private=true&custom_title=My%20GitHub%20Stats&text_bold=false&card_width=768&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=343a40)
+![Dawit's GitHub Streak](https://streak-stats.demolab.com?user=oneminch&theme=github-dark-blue&border=EDAE49&stroke=EDAE49&fire=EDAE49&background=22272E&ring=EDAE49&sideNums=EDAE49)
+![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneminch&show_icons=true&theme=transparent&hide=contribs&count_private=true&custom_title=My%20GitHub%20Stats&text_bold=false&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=22272E)
 
 > "Strive not to be a success, but rather to be of value." <br />- **Albert Einstein**
 
