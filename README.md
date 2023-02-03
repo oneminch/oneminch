@@ -30,7 +30,7 @@ Feel free to explore and connect...
 
 📚 Reading [Ultralearning by Scott Young](https://app.thestorygraph.com/books/b38fd3d5-b39f-4bd0-b730-9c919a5ef5f1).
 
-## Experience
+## Experience 💼
 
 ![EncryptedList](https://github-readme-stats.vercel.app/api/pin/?username=oneminch&repo=encrypted-list&show_owner=true&theme=transparent&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=22272E)
 
@@ -41,13 +41,13 @@ I have previously worked as:
 - a software developer intern at the OpenGenus foundation where I wrote in-depth technical articles on web and computer science concepts such as networking, working with APIs, and fingerprinting.
 - a freelance web developer designing and developing logos and websites.
 
-## Skills
+## Skills 📐
 
 ![My Skills](https://skillicons.dev/icons?i=js,py,html,css,git,bash)
 
 ![My Skills](https://skillicons.dev/icons?i=vue,tailwind,nodejs,postgres,cpp)
 
-## Articles
+## Articles 📄
 
 [Domain Name System (DNS) Basics](https://blog.oneminch.dev/dns-basics)
 
@@ -55,18 +55,18 @@ I have previously worked as:
 
 [HTTPS Basics](https://blog.oneminch.dev/https)
 
-## Garden
+## Digital Garden 🌱
 
-`[[ Coming Soon ]]`
+Here is my repo of public notes - [[[ oneminch / garden ]]](https://github.com/oneminch/garden/)
 
-## Stats
+## Stats 📈
 
 ![Dawit's GitHub Streak](https://streak-stats.demolab.com?user=oneminch&theme=github-dark-blue&border=EDAE49&stroke=EDAE49&fire=EDAE49&background=22272E&ring=EDAE49&sideNums=EDAE49)
 ![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneminch&show_icons=true&theme=transparent&hide=contribs&count_private=true&custom_title=My%20GitHub%20Stats&text_bold=false&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=22272E)
 
 > "Strive not to be a success, but rather to be of value." <br />- **Albert Einstein**
 
-## Thanks
+## Thanks 🙏🏽
 
 [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
