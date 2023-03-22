@@ -24,11 +24,11 @@ Feel free to explore and connect...
 
 💼 Open to opportunities.
 
-🧠 Revisiting my data structures and algorithms knowledge using Python.
+🧠 Learning Node.js to become a full-stack web developer.
 
-👨🏽‍💻 Working on version 3 of [my portfolio](https://github.com/oneminch/oneminch.github.io/).
+👨🏽‍💻 Working on the third iteration of [my portfolio](https://github.com/oneminch/oneminch.github.io/) using Nuxt 3 & Tailwind CSS.
 
-📚 Reading [Ultralearning by Scott Young](https://app.thestorygraph.com/books/b38fd3d5-b39f-4bd0-b730-9c919a5ef5f1).
+📚 Reading [The Gifts of Imperfection by Brené Brown](https://app.thestorygraph.com/books/16e61f4f-ffa8-412b-962d-6a794f73c198).
 
 ## Experience 💼
 
