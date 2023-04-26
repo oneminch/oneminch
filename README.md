@@ -24,9 +24,9 @@ Feel free to explore and connect...
 
 💼 Open to opportunities.
 
-🧠 Learning Node.js to become a full-stack web developer.
+🧠 Learning Node.js + Express.js to expand my full-stack knowledge.
 
-👨🏽‍💻 Working on the third iteration of [my portfolio](https://github.com/oneminch/oneminch.github.io/) using Nuxt 3 & Tailwind CSS.
+👨🏽‍💻 Working on the third iteration of [my portfolio](https://github.com/oneminch/portfolio/) using Nuxt 3 & Tailwind CSS.
 
 <!-- 📚 Reading [The Gifts of Imperfection by Brené Brown](https://app.thestorygraph.com/books/16e61f4f-ffa8-412b-962d-6a794f73c198). -->
 
