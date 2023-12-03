@@ -1,14 +1,12 @@
 ![Header Image](/assets/gh-readme-cover-img.svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=22c55e&vCenter=true&width=500&lines=Frontend+Engineer;Web+Developer)
+### Hi, I'm Dawit 👋
 
-> "Strive not to be a success, but rather to be of value."
->
-> \- **Albert Einstein**
+#### **I craft delightful and accessible web interfaces...**
 
-Hello, my name is Dawit. I am a passionate front-end web developer with a B.S. in Computer Science from Tennessee Tech University.
+My design-oriented approach ensures that every project I touch is as aesthetically pleasing as it is functional.
 
-Currently seeking for front-end development roles to apply my front-end knowledge, adaptability, and creative programming skills to make meaningful contributions.
+Currently seeking opportunities to share my passion and expertise. 
 
 Feel free to explore and connect...
 
@@ -24,7 +22,7 @@ Feel free to explore and connect...
 
 💼 Seeking front-end positions.
 
-🧠 Learning React.js + TypeScript in-depth.
+🧠 Learning React things in-depth.
 
 👨🏽‍💻 Working on the third iteration of [my portfolio](https://github.com/oneminch/portfolio/) using Nuxt 3 & Tailwind CSS.
 
@@ -37,6 +35,14 @@ Feel free to explore and connect...
 ## Digital Garden 🌱
 
 Here is my repo of public notes - [[[ oneminch / garden ]]](https://github.com/oneminch/garden/)
+
+---
+
+> "Strive not to be a success, but rather to be of value."
+>
+> \- **Albert Einstein**
+
+---
 
 <details>
   <summary>
