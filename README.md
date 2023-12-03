@@ -1,6 +1,6 @@
 ![Header Image](/assets/header-image.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=22c55e&vCenter=true&width=500&lines=Software+Engineer;Frontend+Web+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=22c55e&vCenter=true&width=500&lines=Frontend+Engineer;Web+Developer)
 
 > "Strive not to be a success, but rather to be of value."
 >
