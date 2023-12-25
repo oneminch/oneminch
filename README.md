@@ -32,9 +32,9 @@ Feel free to explore and connect...
 
 ![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,python,flask,postgres)
 
-## Digital Garden 🌱
+## Second Brain 🧠
 
-Here is my repo of public notes - [[[ oneminch / garden ]]](https://github.com/oneminch/garden/)
+Here is my repo of public notes - [[[ oneminch › notes ]]](https://github.com/oneminch/notes/)
 
 ---
 
