@@ -20,11 +20,11 @@ Feel free to explore and connect...
 
 ## Currently...
 
-💼 Seeking front-end positions.
+💼 Seeking full-stack positions.
 
-🧠 Learning React things in-depth.
+🧠 Learning full-stack things more in-depth.
 
-👨🏽‍💻 Working on the third iteration of [my portfolio](https://github.com/oneminch/portfolio/) using Nuxt 3 & Tailwind CSS.
+👨🏽‍💻 Working on [a bunch of things](https://github.com/oneminch?tab=repositories).
 
 ## Skills 📐
 
@@ -49,10 +49,6 @@ Here is my repo of public notes - [[[ oneminch › notes ]]](https://github.com/
     <h2>Credits</h2>
   </summary>
   <p><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">alexandresanlim/Badges4-README.md-Profile</a></p>
-  <p><a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev/github-profile-views-counter</a></p>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></p>
-  <p><a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1/readme-typing-svg</a></p>
   <p><a href="https://github.com/Evavic44/Evavic44">Evavic44/Evavic44</a> (Inspiration)</p>
-  <p><a href="https://github.com/simple-icons/simple-icons">simple-icons/simple-icons</a></p>
   <p><a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a></p>
 </details>
