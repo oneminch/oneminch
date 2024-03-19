@@ -2,11 +2,11 @@
 
 ### Hi, I'm Dawit 👋
 
-#### **I craft delightful and accessible web interfaces...**
+#### **I craft delightful and accessible web apps...**
 
 My design-oriented approach ensures that every project I touch is as aesthetically pleasing as it is functional.
 
-Currently seeking opportunities to share my passion and expertise. 
+Currently seeking full-stack opportunities to share my passion and expertise. 
 
 Feel free to explore and connect...
 
@@ -28,19 +28,15 @@ Feel free to explore and connect...
 
 ## Skills 📐
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nuxt)
+![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nuxt,tailwind)
 
-![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,python,flask,postgres)
+![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)
+
+![My Additional Skills](https://skillicons.dev/icons?i=aws,git,python,vitest)
 
 ## Second Brain 🧠
 
 Here is my repo of public notes - [[[ oneminch › notes ]]](https://github.com/oneminch/notes/)
-
----
-
-> "Strive not to be a success, but rather to be of value."
->
-> \- **Albert Einstein**
 
 ---
 
