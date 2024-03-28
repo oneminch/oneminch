@@ -11,7 +11,7 @@ Software Engineer 👨🏾‍💻
 
 ### Reach out
 
-🔗 [Portfolio](https://oneminch.dev)
+🔗 [Portfolio](https://minch.dev)
 
 💻 [DEV](https://dev.to/oneminch) 
 
