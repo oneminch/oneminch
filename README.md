@@ -1,1 +1,1 @@
-![Header Image](/assets/gh-readme-cover-img.svg)
+[![Header Image](/assets/gh-readme-cover-img.svg)](https://minch.dev)
